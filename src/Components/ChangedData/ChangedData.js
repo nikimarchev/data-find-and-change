@@ -25,6 +25,7 @@ const ChangedData = ({ data, word }) => {
     }
   }
 
+
   return (
     <div>
       <div className="textBox">
